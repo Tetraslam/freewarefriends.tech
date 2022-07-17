@@ -12,3 +12,4 @@ Freeware Friends Official Website Repository
 - [ ] **Past newsletters:** chronological order with title of each newsletter and subtopics
 - [ ] **About us:** Our Mission, About the Founders (with socials), Core Team, apply to join us now banner
 - [ ] **Contact us:** Instagram, Discord (later), email (freewarefriends@gmail.com)
+- [ ] random test
